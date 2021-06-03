@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Muscovy operator.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27105</idno><idno type="EEBO-CITATION">99888716</idno>
+  <idno type="VID">203945</idno>
+  <idno type="EEBO-PROQUEST">2240903532</idno>
+  
+            <idno type="STC">Wing M3138A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15.[14]</idno>
+            <idno type="STC">ESTC R231684</idno>
+            <idno type="PROQUEST">ocm99888716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888716e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203946)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Muscovy operator.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A quack advertisement"--British Library catalog.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>At foot of verso: "This famous operator, J.A.K. is to be spoken with at his lodgings every day, from 8 in the morning till 12 at noon, and from 2 till 9 at night; or at the six [cans] office, over-ag[a]inst his stage, near Little Turn-stile in Holborn.".</note>
+                  <note>Imperfect: stained, affecting print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Verify text at foot on verso.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-11 </date>
+            <label>PFS</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:203945:1"/>
+            <head>The Muscovy Operator.</head>
+            <div type="illustration">
+               <p>
+                  <figure>
+                     <figDesc>British royal coat of arms</figDesc>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                     <q>JE MAIN TIENDRAY</q>
+                  </figure>
+                  <figure>
+                     <figDesc>Hapsburg coat of arms</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>Elaborate woodcut of turbaned and gowned Muscovy Operator, riding a horse, in front of a city, bearing the implements of a Chirurgeon</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="advert_for_quack">
+               <pb facs="tcp:203945:2"/>
+               <epigraph>
+                  <q>Gloria sit Soli, qui Regit Astra Poli.</q>
+                  <q>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xperientiae artem genuit in Experientia vero Fortuna &amp; usus est optimis Artium Magister.</q>
+               </epigraph>
+               <p>AT the <hi>Still</hi> and <hi>Tobacco Rowl</hi> next Door to the <hi>Three Pigeons</hi> in <hi>West-Smithfield,</hi> is lately come the <hi>Muscovy Oc<g ref="char:EOLhyphen"/>culist, Stone,</hi> and <hi>Rupture Master,</hi> who has Travelled in most Parts of <hi>Europe.</hi> First in <hi>Muscovy,</hi> next into <hi>Germany,</hi> and afterwards by his Great Travelling came into <hi>Turky,</hi> where he was for some Years, and Converse with most Famous Physitians in these Parts; from whom he has obtained such admirable Secrets or Arcaniums, that never was Communicated before. By which he has obtained a great deal of Credit and Honour, wherever he has Travelled; not only in Foreign Places, but also in this Kingdom.</p>
+               <p>He cures these following Distempers, <hi>Viz.</hi> He cures and recovers such as are troubled with the Stone in the Kid<g ref="char:EOLhyphen"/>nies or Bladder, by cutting, or particular medicines; He also takes Stones out of the Bladder of Women or Maids <hi>per dilicationem,</hi> without cutting; if any Person be troubled with Films, or Cataracts in the Eyes, if the <hi>Pupilla</hi> or Apple of the Eye be not hurt, I can restore them their sight presently, he also cures any Pearls of Blood in the Eyes, or overgrowing Flesh in a short time; he cuts and cures Hair lips in six days, Cancers in the breast and other parts of the body; <hi>The Nole me Tangere,</hi> and such like diseases in a short time. He can Arteficially cure P<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> in the Nose, and cure weak Limbs, and dexterously cure all Carnosities or Swelling, he cures the <hi>French Pox</hi> with all it's Atten<g ref="char:EOLhyphen"/>dants, the Running of the Reins, Shankers, Buboes, or swelling in the Groin, in a short time, after a new me<g ref="char:EOLhyphen"/>thod, without Bath or Stove, and without <hi>Mercury,</hi> so as every one may follow their business. He can fortifie the cold Nature of Men or Women and hath a rare medicine for such as cannot hold their water, he hath a rare Art of curing Deafness if curable. I restore to perfect health, such as are troubled with Vomiting, Cholick, Rising of the Vapours, pain in the Milt, stitches in the side and all <hi>Scorbutical</hi> Distempers, which he cures in a short time, he cures all Persons that have broken or bursten Bellies, in Men, Women, or Children, according to their different Constitutions. He can help them without cutting, or hindering their going about their business without taking of Physick, with an outward application, without pain or danger.</p>
+               <p>Therefore whoever hath occasion for this <hi>Renowned Operator,</hi> let them not loose time, but come to him while they have the fortune to have him in Town, and those that cannot come, may send their Urine, and shall have both advice and medicine, as their case requires.</p>
+               <p>
+                  <hi>Note,</hi> If an Gentlewoman hath gotten a Rupture, or any other Distemper, and is subject to Obstructions, and is loath to discover her self to me, they may speak with my Wife very privately, and she shall relieve them very secret.</p>
+            </div>
+            <div type="cases">
+               <head>And for further satisfaction to such as are over scrupulous, some few instances are given, of some Operations perfor<g ref="char:EOLhyphen"/>med by him in this Kingdom, at the Places following.</head>
+               <p>He cured one <hi>Thomas Smalsia</hi> in <hi>Spalding,</hi> in <hi>Lincolnshire,</hi> who was troubled with the stone in the bladder 28 years, and was cured by me in a short time.</p>
+               <p>He cured <hi>Goody South</hi> of <hi>Boston</hi> in <hi>Lincolnshire,</hi> of a dangerous Cancer, who had been refused by all the Doctors in the Country, was cured by me in a Fortnight.</p>
+               <p>He cured the wife of <hi>John Belling</hi> of <hi>Shamsby,</hi> who had been blind fourteen years, she was cured by me in three minutes time.</p>
+               <p>He cured also <hi>Job Stuard</hi> in <hi>Maxfield</hi> in <hi>Cheshire,</hi> who was bed-ridden for a year and a half of a lameness in his back, which was iven over by all others uncurable; which by the Blessing of God he cured him in a Fortnights time.</p>
+               <p>One <hi>Geo. Clark</hi> of the same Town he likewise cured of the Stone without cutting, only by a particular Secret that he has brought along with him and several others, which has been cured by the same medicine</p>
+               <p>He cured a child of <hi>Simon Nells</hi> of <hi>Kincome</hi> in <hi>Dorsetshire</hi> of a double Hair-lip, which had been cut before by several Doctors, but could not perform the cure, but in a short time I made it a handsom and sound Lip.</p>
+               <p>He cured <hi>Thomas Errall</hi> of <hi>Crowland</hi> in <hi>Lincoln-shire,</hi> who had been troubled with a Lame Leg for nine years, was cured by him in a short time.</p>
+               <p>
+                  <hi>Robert Spicer</hi> of <hi>Chesson</hi> in <hi>Hertfordshire,</hi> who had been blind 20 years and cured by me in three minutes.</p>
+               <p>
+                  <hi>Judith Nicholas</hi> of <hi>Cuman</hi> in the County of <hi>Oxon,</hi> of a large Cancerated breast, who had been troubled with <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ten years, she was aged 65 years, and had been in several Hospitals, and could give no <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but by the Grace of God I cured her in six weeks time.</p>
+               <p>
+                  <hi>Robert Bacott</hi> living in <hi>Hasstings Sussex,</hi> who had been troubled with a Cancerated Lip for the <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ten years had been with most of the Doctors in the Country, and could get no cure, but in a fourtnights time <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and made him a sound Lip.</p>
+               <p>Altho he mentions but a few diseases here, yet his practice is general of all distempers, both inward and outward that can afflict the bodies of Men, Women, or Children, he having such proper medicines, so <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Life, that is most probable to cure their distempers, for he has cured many that have been <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Incurable.</p>
+               <p>He cures all manner of Scald Heads, wet or dry, if never so bad, without Pitch Plaister, or any <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in 14 days.</p>
+               <p>This Famous Operator doth cast all sorts of Humane Urine, none like him in that Art, he <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all di<g ref="char:EOLhyphen"/>stempers, and can resolve you if the disease be of 20 years standing, whither it be curable or not <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pre<g ref="char:EOLhyphen"/>vent further Charges, or else will use moderation, and according to the ability of the patient <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> water be brought that was made after midnight.</p>
+               <p>Whoever hath occasion for this Renowned Operator may come to him, or else send for him and he will wait on them, and give such satisfaction, that one may easily know what an honest Physician for Counsell <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> perform,</p>
+               <p>He had also a great secret Communicated to him in <hi>Turky</hi> for the Gout, which gives ease in <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> extremes of pain, if it be followed, it makes a perfect cure, which has been experienced by Hundreds in this Kingdom, and never was troubled with it, since they used it. You may have a Bottle from 5 Shillings to what price you please.</p>
+               <p>This Famous Operator, <hi>J.A.K.</hi> is to be spoken with at his Lodgings every Day, from 8 in the Mor<g ref="char:EOLhyphen"/>ning till 12 at Noon, and from 2 till 9 at Night; o<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the <hi>Six <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> over-against his Stage, near <hi>Little Turn-stile</hi> in <hi>Holborn.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
